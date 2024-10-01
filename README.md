@@ -35,6 +35,8 @@ Alternatively, you can copy the notebook URL and paste it directly into Colab by
 
 ### 🏆 Challenges Breakdown
 
+**Beginner** - If you are just getting started with Python but don't want to miss on the fun. You will get hints to help you learn along the way!
+
 **Easy Puzzles** – Warm-up exercises to get your coding fingers moving. Perfect if you're just starting out or want a quick win.
 
 **Medium Puzzles** – A bit more tricky. You’ll need to start thinking more critically and creatively.
