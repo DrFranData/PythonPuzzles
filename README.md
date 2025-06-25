@@ -43,6 +43,8 @@ Alternatively, you can copy the notebook URL and paste it directly into Colab by
 
 **Hard Puzzles** – These will push your problem-solving skills to the max. But trust me, solving one of these will feel so satisfying!
 
+**AI Puzzles** – Designed to help you learn how to use AI tools effectively while coding. These challenges combine Python problem-solving with prompts that guide you to reflect, revise, and optimize using AI support.
+
 ### 📚 Resources
 Stuck? No problem! Here's what you can do:
 
